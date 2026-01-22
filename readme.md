@@ -15,4 +15,4 @@ Esta práctica será desarrollada con estructura de ramales, para el estudiante 
 
 |No.|Descripción|Potenciador|Estatus|
 |---|---|---|---|
-|1.| Declaración de Varibles| 6 | 💻 En Proceso|
+|1.| Declaración de Varibles| 6 | Finalizado|
